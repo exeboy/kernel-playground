@@ -56,3 +56,11 @@ This repository is designed to facilitate customizing the Linux kernel, building
 ---
 
 *For further assistance or questions, refer to the individual README files within each folder.*
+---
+## M3 Project Submission: Advanced HTTP Packet Logger
+
+This repository contains the source code for the advanced HTTP Packet Logger kernel module. The code is located in the `/modules/http-packet-logger/` directory.
+
+A full report detailing the project results, replication instructions, and design notes is available at the link below.
+
+### [Click Here to View Full Project Documentation](https://docs.google.com/document/d/1QJcuk91UCle3sdX3GfGloij6Md_4XN3uvEQtN9633lM/edit?usp=sharing)
