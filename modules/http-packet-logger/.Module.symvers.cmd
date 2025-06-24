@@ -1,1 +1,0 @@
-savedcmd_/home/ubuntu/kernel-playground/modules/http-packet-logger/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/ubuntu/kernel-playground/modules/http-packet-logger/Module.symvers -T /home/ubuntu/kernel-playground/modules/http-packet-logger/modules.order -i Module.symvers -e 
