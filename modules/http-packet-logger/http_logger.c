@@ -1,4 +1,4 @@
-// here's the c file for our programm
+// here's the c file for our programm for http-packet-logger module
 
 
 #include <linux/init.h>

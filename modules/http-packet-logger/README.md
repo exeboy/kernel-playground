@@ -7,7 +7,7 @@ This repository provides tools and resources for customizing and building a Linu
 ## Repository Structure
 
 ### 1. `kernel` Folder
-Contains the kernel configuration, source code, and a custom kernel module. The `Makefile` in this folder supports various tasks:
+Contains the kernel configurations source code, and a custom kernel module. The `Makefile` in this folder supports various tasks:
 
 - **config**: Copies the kernel configuration file into the Linux kernel source directory.
 - **kbuild**: Builds the entire Linux kernel.
